@@ -1,1 +1,1 @@
-# AVR_Traffic_lighy
+# Pedestrian crossing traffic light control system using AVR Register level programming
